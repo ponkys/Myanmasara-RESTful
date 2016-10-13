@@ -1,5 +1,5 @@
 # Myanmasara-RESTful
-Myanmasara RESTful API built on Nodejs, Express and MongoDB to test Myanmasara app in Angular2
+Myanmasara RESTful API built on Nodejs, Express and MongoDB to <strong>test</strong> Myanmasara app in Angular2
 
 The app currently works with a local MongoDB which renders the following.
 
